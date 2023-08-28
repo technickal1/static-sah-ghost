@@ -71,3 +71,4 @@ yarn-error.log
 .netlify/
 dist
 .env
+.env
