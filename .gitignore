@@ -1,3 +1,5 @@
+# ENV
+.env
 # Logs
 logs
 *.log
@@ -68,3 +70,4 @@ typings/
 yarn-error.log
 .netlify/
 dist
+.env
